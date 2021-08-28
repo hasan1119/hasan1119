@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Rokibul Hasan, A Professional Web Application Developer</h1>
 
-<h3 align="left">I am a MERN stack WEB DEVELOPER with having 5 years of experience. I am working as a Freelance Full Stack web developer.</h3>
+<h3 align="left">I am a MERN stack WEB DEVELOPER with having 2 years of experience. I am working as a Freelance Full Stack web developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/md_rokibulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/md_rokibulhasan?logo=twitter&style=for-the-badge" alt="md_rokibulhasan" /></a> </p>
 
@@ -56,16 +56,6 @@
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-  <summary>📊 Github Readme Stats</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/hasan1119">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulhasan&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com/rokibulhasan/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rokibulhasan&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhasan&theme=radical&hide_border=true"/>
 </p>
