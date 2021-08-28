@@ -54,12 +54,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/md.rokibul.hasan.bd)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14581496/md-rokibul-hasan)
 
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhasan&theme=radical&hide_border=true"/>
-</p>
-
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
 <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
