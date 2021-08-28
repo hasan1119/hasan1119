@@ -4,9 +4,9 @@
 
 <h3 align="center">I am a MERN stack WEB DEVELOPER with having 5 years of experience. I am working as a Freelance Full Stack web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/md_rokibulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="md_rokibulhasan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/md_rokibulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/md_rokibulhasan?logo=twitter&style=for-the-badge" alt="md_rokibulhasan" /></a> </p>
 
-- 💬 Ask me about **React, Node and JavaScript** and any kinda MERN project.
+- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
 - 📫 How to reach me **hasan.webappsdeveloper@gmail.com**
 
@@ -21,11 +21,11 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="babulakter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="bbabulakterfsd | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bbabulakterfsd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bbabulakterfsd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.hackerrank.com/babulakterfsd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
+[<img align="left" alt="rokibulhasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="brokibulhasan | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="brokibulhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="brokibulhasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.hackerrank.com/rokibulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rokibulhasan" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
@@ -51,24 +51,24 @@
 
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/babulakterfsd)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/babulakterfsd)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/babulakterfsd)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rokibulhasan)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rokibulhasan)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/rokibulhasan)
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/babulakterfsd">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/rokibulhasan">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulhasan&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/babulakterfsd/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=babulakterfsd&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/rokibulhasan/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rokibulhasan&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babulakterfsd&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhasan&theme=radical&hide_border=true"/>
 </p>
 
 <details>
@@ -76,7 +76,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=babulakterfsd&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=rokibulhasan&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
