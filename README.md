@@ -1,6 +1,5 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Rokibul Hasan, A Professional Web Application Developer</h1>
-<h3 align="center">2 years of experience in front-end development, now I am avilable to work as a MERN stack dev with 6 months of experience</h3>
 
 <h3 align="center">I am a MERN stack WEB DEVELOPER with having 5 years of experience. I am working as a Freelance Full Stack web developer</h3>
 
@@ -53,7 +52,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rokibulhasan)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rokibulhasan)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/5208134/rokibulhasan)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14581496/md-rokibul-hasan)
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -81,7 +80,7 @@
  </p>
 </details>
 
-[portfolio]: https://rokibulhasan.com
+[portfolio]: https://rokibulhasan.xyz
 [twitter]: https://twitter.com/md_rokibulhasan
 [facebook]: https://www.facebook.com/md.rokibul.hasan.bd
 [github]: https://github.com/hasan1119
