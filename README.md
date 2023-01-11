@@ -1,9 +1,9 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h1 align="center">HI, I Am Md. Rokibul Hasan, A Professional Web Application Developer</h1>
+<h1 align="center">HI, I Am Md. Rokibul Hasan, A Full Stack Application Developer</h1>
 
-<h3 align="left">I am a MERN stack WEB DEVELOPER with having 2 years of experience. working as a Freelance Full Stack web developer.</h3>
+<h3 align="left">I am a Full Stack WEB DEVELOPER with having 5 years of experience. working as a Freelance Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/RokibulDev" target="blank"><img src="https://img.shields.io/twitter/follow/md_rokibulhasan?logo=twitter&style=for-the-badge" alt="RokibulDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RokibulDev" target="blank"><img src="https://img.shields.io/twitter/follow/RokibulDev?logo=twitter&style=for-the-badge" alt="RokibulDev" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
@@ -21,9 +21,9 @@
 ### Connect with Me:
 
 [<img align="left" alt="Md. Rokibul Hasan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="brokibulhasan | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="brokibulhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="brokibulhasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rokibulhasan | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="rokibulhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rokibulhasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -60,8 +60,8 @@
  </br>
 </details>
 
-[portfolio]: https://rokibulhasan.xyz
-[twitter]: https://twitter.com/md_rokibulhasan
+[portfolio]: https://rokibul.com
+[twitter]: https://twitter.com/RokibulDev
 [facebook]: https://www.facebook.com/md.rokibul.hasan.bd
 [github]: https://github.com/hasan1119
 [linkedin]: https://www.linkedin.com/in/md-rokibul-hasan
