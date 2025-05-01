@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Rokibul Hasan, A Full Stack Application Developer</h1>
-https://prod.liveshare.vsengsaas.visualstudio.com/join?89513E1FB534423701019E01FE238F3D3188
+
 <h3 align="left">I am a Full Stack WEB DEVELOPER with 7 years of experience. working as a Freelance Full Stack web developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/RokibulDev" target="blank"><img src="https://img.shields.io/twitter/follow/RokibulDev?logo=twitter&style=for-the-badge" alt="RokibulDev" /></a> </p>
