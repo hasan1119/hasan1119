@@ -19,7 +19,7 @@ I'm a senior full-stack software developer with over **9 years of experience** i
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React, Node**
 - 💻 Love working in **Visual Studio Code**
 - 🧡 I enjoy working with **WordPress** and can help with it too
-- 📫 Reach me at **rokibul@gmail.com**
+- 📫 Reach me at **rokibul.devs@gmail.com**
 
 ---
 
